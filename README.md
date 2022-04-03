@@ -1,6 +1,6 @@
 ## Hi, I'm Lorenz 👋
 
-I am a developer passionate about computer vision and software design.
+I am a passionate about computer vision, deep learning and software design.
 
 Without a particular order, things I am interested in: computer vision, software, martial arts, API design, Neapolitan pizza, procedural generation, pen & paper, developer experience, technical writing, reading, pose estimation and more that I might find the time to add later 😅.
 
